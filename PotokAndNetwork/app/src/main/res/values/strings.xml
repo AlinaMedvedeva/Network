@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PotokAndNetwork</string>
+    <string name="logo">Загрузка картинок</string>
+    <string name="save">Загрузить</string>
+</resources>
